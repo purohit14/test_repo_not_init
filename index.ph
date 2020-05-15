@@ -1,3 +1,3 @@
-<? p
-print "Hello l";
-asbdhas
+<? php
+print "Hello all";
+?>
