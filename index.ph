@@ -1,3 +1,3 @@
-<? ph
+<? p
 print "Hello l";
 
